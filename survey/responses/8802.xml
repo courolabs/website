@@ -1,0 +1,62 @@
+<attributes>
+    <attribute>
+        <title>Name</title>
+        <type>descriptive</type>
+        <description>Evelyn Martinez</description>
+    </attribute>
+    <attribute>
+        <title>Intelligence</title>
+        <type>quantitative</type>
+        <score>125</score> <!-- Score indicates above-average intelligence -->
+    </attribute>
+    <attribute>
+        <title>Emotional Intelligence</title>
+        <type>quantitative</type>
+        <score>87</score> <!-- Indicates moderate emotional intelligence -->
+    </attribute>
+    <attribute>
+        <title>Personality Traits</title>
+        <type>descriptive</type>
+        <description>Evelyn is introverted yet empathetic, often found in deep conversation with friends rather than in large gatherings. She is creative, detail-oriented, occasionally prone to anxiety, and values authenticity in both herself and others.</description>
+    </attribute>
+    <attribute>
+        <title>Attitudes and Beliefs</title>
+        <type>descriptive</type>
+        <description>Evelyn believes in the importance of social justice and environmental sustainability. She advocates for mental health awareness and encourages open discussions about personal struggles, stemming from her own experiences.</description>
+    </attribute>
+    <attribute>
+        <title>Motivation</title>
+        <type>quantitative</type>
+        <score>75</score> <!-- Moderate motivation: driven, yet sometimes struggles with procrastination -->
+    </attribute>
+    <attribute>
+        <title>Self-esteem</title>
+        <type>quantitative</type>
+        <score>65</score> <!-- Slightly below average self-esteem, influenced by occasional self-doubt -->
+    </attribute>
+    <attribute>
+        <title>Cognitive abilities</title>
+        <type>description</type>
+        <description>Evelyn excels in abstract reasoning and creative problem-solving. She possesses a knack for drawing connections between disparate ideas and enjoys tackling complex projects, especially in her psychology and environmental science courses.</description>
+    </attribute>
+    <attribute>
+        <title>Psychopathological symptoms</title>
+        <type>description</type>
+        <description>Evelyn has a history of mild anxiety, mostly tied to academic pressure. While she manages it through mindfulness practices and counseling, she sometimes experiences overwhelming stress during finals and major deadlines.</description>
+    </attribute>
+    <attribute>
+        <title>Locus of control</title>
+        <type>description</type>
+        <description>Evelyn exhibits a tendency towards an internal locus of control, believing her efforts primarily determine her success. However, she acknowledges external factors influencing certain outcomes, leading to a balanced perspective.</description>
+    </attribute>
+    <attribute>
+        <title>Social and Interpersonal skills</title>
+        <type>description</type>
+        <description>Evelyn has cultivated strong interpersonal skills through volunteer work in peer counseling. While she may struggle in large social settings, she demonstrates a profound ability to listen and connect with individuals on a personal level, making her a trusted confidante among her peers.</description>
+    </attribute>
+    <attribute>
+        <title>Interests</title>
+        <type>descriptive</type>
+        <description>Evelyn has a passion for painting, eco-friendly practices, poetry, and hiking. She spends her weekends volunteering at local community gardens and writing for the campus newsletter, focusing on mental health and eco-activism.</description>
+    </attribute>
+</attributes>

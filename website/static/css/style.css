@@ -1,0 +1,43 @@
+:root {
+    --black: #121212;
+    --gray: #3a3a3b;
+}
+
+html,
+body {
+    background-color: var(--black);
+    margin: 0;
+}
+
+.header {
+    align-items: center;
+    background: var(--black);
+    border-bottom: .75px solid var(--gray);
+    display: flex;
+    height: 3.75rem;
+    padding: 0 .75rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: calc(100vw - 1.5rem);
+    z-index: 997;
+}
+
+.header__container {
+    align-items: center;
+    display: flex;
+    height: 3.5rem;
+}
+
+.header__container > svg {
+    height: 2.5rem;
+}
+
+.nav {
+    background: var(--black);
+    border-right: 0.75px solid var(--gray);
+    height: 100vh;
+    width: 4rem;
+    position: absolute;
+    z-index: 996;
+}

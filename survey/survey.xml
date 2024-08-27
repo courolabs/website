@@ -1,0 +1,92 @@
+<survey>
+    <section>
+        <title>Demographics</title>
+        <question>
+            What is your age?
+        </question>
+        <question>
+            Which year of study are you currently in?
+        </question>
+        <question>
+            What is your major or field of study?
+        </question>
+        <question>
+            What is something you think makes you unique?
+        </question>
+        <question>
+            Favorite movie?
+        </question>
+        <question>
+            Beer before liquor or liquor before beer?
+        </question>
+    </section>
+    <section>
+        <title>Problem</title>
+        <question>
+            What are some of the biggest challenges you face on a daily basis as
+            a college student?
+        </question>
+        <question>
+            Which of the following issues do you experience the most frequently?
+            Time management
+            Stress 
+            Academic resources
+            Social life
+            Health
+            Financial issues
+            Other (take note of)
+        </question>
+        <question>
+            On a scale of 1-5, how severe are these challenges for you? (1 - not
+            severe at all, 2 - very severe)
+        </question>
+        <prompt>
+            Now imagine someone who you personally think is in a worse situation
+            than you.
+        </prompt>
+        <question>
+            What are some of the biggest challenges that you think they would 
+            face on a daily basis as a college student?
+        </question>
+        <question>
+            Which of the following issues do you think they would experience the
+            most frequently? (choose one)
+            Time management
+            Stress 
+            Academic resources
+            Social life
+            Health
+            Financial issues
+            Other (take note of)
+        </question>
+        <question>
+            On a scale of 1-5, how severe do you think these challenges are for 
+            them? (1 - not severe at all, 2 - very severe)
+        </question>
+        <question>
+            Up or down?
+        </question>
+        <question>
+            Left or right?
+        </question>
+        <question>
+            Drake or Kanye?
+        </question>
+        <question>
+            Are you currently using any technology to address the challenges you
+            stated earlier? If yes, please describe.
+        </question>
+        <question>
+            What features would you like to see in a technological solution for 
+            the problems you face?
+        </question>
+        <question>
+            How much would you be willing to pay for a technology solution that 
+            effectively addresses your most significant challenges?
+        </question>
+        <question>
+            Do you have any additional comments or suggestions regarding 
+            technological solutions for college students?
+        </question>
+    </section>
+</survey>

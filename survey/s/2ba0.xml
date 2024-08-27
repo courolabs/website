@@ -1,0 +1,99 @@
+```xml
+<survey>
+    <section>
+        <title>Demographics</title>
+        <question>
+            What is your age?
+            <answer>20</answer>
+        </question>
+        <question>
+            Which year of study are you currently in?
+            <answer>Second year</answer>
+        </question>
+        <question>
+            What is your major or field of study?
+            <answer>Sociology with a minor in Environmental Studies</answer>
+        </question>
+        <question>
+            What is something you think makes you unique?
+            <answer>I have an uncanny ability to connect diverse ideas, often innovating unexpected solutions to social issues, like how to incorporate sustainable practices in activism.</answer>
+        </question>
+        <question>
+            Favorite movie?
+            <answer>The Pursuit of Happyness - it embodies resilience, personal struggle, and the pursuit of a better life.</answer>
+        </question>
+        <question>
+            Beer before liquor or liquor before beer?
+            <answer>Neither! I prefer to stay mindful and enjoy herbal teas instead.</answer>
+        </question>
+    </section>
+    <section>
+        <title>Problem</title>
+        <question>
+            What are some of the biggest challenges you face on a daily basis as 
+            a college student?
+            <answer>Balancing academic responsibilities with my activism, managing social anxiety, and dealing with occasional depressive episodes.</answer>
+        </question>
+        <question>
+            Which of the following issues do you experience the most frequently?
+            <answer>Stress</answer>
+        </question>
+        <question>
+            On a scale of 1-5, how severe are these challenges for you? (1 - not 
+            severe at all, 2 - very severe)
+            <answer>4</answer>
+        </question>
+        <prompt>
+            Now imagine someone who you personally think is in a worse situation 
+            than you.
+        </prompt>
+        <question>
+            What are some of the biggest challenges that you think they would 
+            face on a daily basis as a college student?
+            <answer>Increased levels of stress from financial insecurity, lack of academic support, and perhaps significant mental health struggles exacerbated by unhealthy living conditions.</answer>
+        </question>
+        <question>
+            Which of the following issues do you think they would experience the 
+            most frequently? (choose one)
+            <answer>Financial issues</answer>
+        </question>
+        <question>
+            On a scale of 1-5, how severe do you think these challenges are for 
+            them? (1 - not severe at all, 2 - very severe)
+            <answer>5</answer>
+        </question>
+        <question>
+            Up or down?
+            <answer>Up - always look for the positive!</answer>
+        </question>
+        <question>
+            Left or right?
+            <answer>Left, as I tend to lean toward progressive ideas and social change.</answer>
+        </question>
+        <question>
+            Drake or Kanye?
+            <answer>Kanye - I appreciate his creativity and how he pushes boundaries, even with his controversies.</answer>
+        </question>
+        <question>
+            Are you currently using any technology to address the challenges you 
+            stated earlier? If yes, please describe.
+            <answer>Yes, I use mindfulness apps like Headspace for meditation, and I also leverage online forums to connect with fellow activists who share my drive for social change.</answer>
+        </question>
+        <question>
+            What features would you like to see in a technological solution for 
+            the problems you face?
+            <answer>I would love an all-in-one app that not only tracks my assignments and deadlines but also integrates mental health resources, reminders for self-care activities, and a community forum for scholarships and support networks.</answer>
+        </question>
+        <question>
+            How much would you be willing to pay for a technology solution that 
+            effectively addresses your most significant challenges?
+            <answer>I would pay around $10 a month, as long as it provides good functionality and resources that genuinely support wellness and organization.</answer>
+        </question>
+        <question>
+            Do you have any additional comments or suggestions regarding 
+            technological solutions for college students?
+            <answer>I'd love to see an emphasis on social connections within academic environments. A platform that connects students based on common interests or challenges could foster support and inclusivity.</answer>
+        </question>
+    </section>
+</survey>
+```

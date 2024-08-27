@@ -1,0 +1,67 @@
+<attributes>
+    <attribute>
+        <title>Name</title>
+        <type>descriptive</type>
+        <description>Jordan Smith</description>
+    </attribute>
+    <attribute>
+        <title>Age</title>
+        <type>descriptive</type>
+        <description>20</description>
+    </attribute>
+    <attribute>
+        <title>Intelligence</title>
+        <type>quantitative</type>
+        <score>120</score>
+    </attribute>
+    <attribute>
+        <title>Emotional Intelligence</title>
+        <type>quantitative</type>
+        <score>85</score>
+    </attribute>
+    <attribute>
+        <title>Personality Traits</title>
+        <type>descriptive</type>
+        <description>Jordan is friendly, open-minded, and empathetic. They exhibit traits of agreeableness but can be impulsive at times, often acting on their emotions rather than logic.</description>
+    </attribute>
+    <attribute>
+        <title>Attitudes and Beliefs</title>
+        <type>descriptive</type>
+        <description>Jordan believes in the power of community and often engages in volunteer work. They hold a strong belief in social justice and environmental sustainability but struggle with cynicism about systemic change.</description>
+    </attribute>
+    <attribute>
+        <title>Motivation</title>
+        <type>quantitative</type>
+        <score>75</score>
+    </attribute>
+    <attribute>
+        <title>Self-esteem</title>
+        <type>quantitative</type>
+        <score>65</score>
+    </attribute>
+    <attribute>
+        <title>Cognitive abilities</title>
+        <type>description</type>
+        <description>Jordan excels in creative thinking and problem-solving but finds analytical tasks such as math and statistics challenging. They enjoy hands-on learning and thrive in collaborative environments.</description>
+    </attribute>
+    <attribute>
+        <title>Psychopathological symptoms</title>
+        <type>description</type>
+        <description>Jordan experiences occasional anxiety, particularly related to academic pressures and social interactions. They also have moments of self-doubt but are currently managing their symptoms through counseling and mindfulness practices.</description>
+    </attribute>
+    <attribute>
+        <title>Locus of control</title>
+        <type>description</type>
+        <description>Jordan has a somewhat internal locus of control, believing that their choices influence their outcomes. However, they sometimes feel victimized by external circumstances, especially during stressful periods.</description>
+    </attribute>
+    <attribute>
+        <title>Social and Interpersonal skills</title>
+        <type>description</type>
+        <description>Jordan is generally sociable and great at making new friends. They actively participate in group activities and can engage easily in conversations, though they sometimes struggle with assertiveness when expressing their needs or opinions.</description>
+    </attribute>
+    <attribute>
+        <title>Hobbies and Interests</title>
+        <type>descriptive</type>
+        <description>Jordan enjoys painting and digital art, attends poetry slams, and participates in community theater. They are passionate about hiking and often join environmental groups working towards sustainability.</description>
+    </attribute>
+</attributes>
